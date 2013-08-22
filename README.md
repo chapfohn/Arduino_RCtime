@@ -1,3 +1,5 @@
 Arduino_RCtime
 ==============
-Development from RUntime from BasicStamp digital solution for reading resisting sensors.
+Development of RCtime from BasicStamp digital solution for reading resisting sensors.
+
+Code in parallel to ADC measurement of same sensor, check for stability.
